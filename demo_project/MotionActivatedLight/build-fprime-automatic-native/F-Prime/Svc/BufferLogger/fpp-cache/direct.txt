@@ -1,0 +1,10 @@
+/home/fprime/fprime/Fw/Buffer/Buffer.fpp
+/home/fprime/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/fprime/Fw/Com/Com.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Fw/Tlm/Tlm.fpp
+/home/fprime/fprime/Svc/BufferLogger/Commands.fppi
+/home/fprime/fprime/Svc/BufferLogger/Events.fppi
+/home/fprime/fprime/Svc/BufferLogger/Telemetry.fppi
+/home/fprime/fprime/Svc/Ping/Ping.fpp
+/home/fprime/fprime/Svc/Sched/Sched.fpp

@@ -1,0 +1,6 @@
+  void GoalMonitor ::
+    goalSatisfactionCheck(){
+        // goal check function
+    }
+
+} // end namespace example

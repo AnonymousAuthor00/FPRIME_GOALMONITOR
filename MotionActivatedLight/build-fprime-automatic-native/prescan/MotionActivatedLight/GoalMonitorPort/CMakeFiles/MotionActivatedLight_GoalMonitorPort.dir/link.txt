@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_GoalMonitorPort.a CMakeFiles/MotionActivatedLight_GoalMonitorPort.dir/home/fprime/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_GoalMonitorPort.a

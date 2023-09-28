@@ -1,0 +1,3 @@
+/home/fprime/fprime/Fw/Buffer/Buffer.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/config/AcConstants.fpp

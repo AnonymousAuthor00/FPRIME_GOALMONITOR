@@ -1,0 +1,4 @@
+GoalNumber,GoalName,ParentGoal,Refinement,LogicExpression,Component,Conversion
+1,overallGoal,0,AND,Null,Null,Null
+2,g1,1,Null,(m_locked),gps,Null
+3,g2,1,Null,(m_good>(0.8*(m_good+m_mangled))),gps,Null

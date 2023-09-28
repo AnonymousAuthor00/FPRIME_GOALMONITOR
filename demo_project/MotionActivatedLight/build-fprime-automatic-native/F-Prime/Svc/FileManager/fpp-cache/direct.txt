@@ -1,0 +1,7 @@
+/home/fprime/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Fw/Tlm/Tlm.fpp
+/home/fprime/fprime/Svc/FileManager/Commands.fppi
+/home/fprime/fprime/Svc/FileManager/Events.fppi
+/home/fprime/fprime/Svc/FileManager/Telemetry.fppi
+/home/fprime/fprime/Svc/Ping/Ping.fpp

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_Top.a CMakeFiles/MotionActivatedLight_Top.dir/home/fprime/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_Top.a

@@ -1,0 +1,10 @@
+/home/fprime/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/fprime/Fw/Com/Com.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Fw/Tlm/Tlm.fpp
+/home/fprime/fprime/Svc/CmdSequencer/Commands.fppi
+/home/fprime/fprime/Svc/CmdSequencer/Events.fppi
+/home/fprime/fprime/Svc/CmdSequencer/Telemetry.fppi
+/home/fprime/fprime/Svc/Ping/Ping.fpp
+/home/fprime/fprime/Svc/Sched/Sched.fpp
+/home/fprime/fprime/Svc/Seq/Seq.fpp

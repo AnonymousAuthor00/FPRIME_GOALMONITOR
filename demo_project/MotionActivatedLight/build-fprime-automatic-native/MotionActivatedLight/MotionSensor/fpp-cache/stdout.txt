@@ -1,0 +1,4 @@
+/home/fprime/fprime/MotionActivatedLight/GoalMonitorPort/GoalMonitorPort.fpp
+/home/fprime/fprime/MotionActivatedLight/TimePort/TimePort.fpp
+/home/fprime/fprime/Svc/Sched/Sched.fpp
+/home/fprime/fprime/config/FpConfig.fpp

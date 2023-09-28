@@ -1,0 +1,6 @@
+/home/fprime/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/fprime/Fw/Com/Com.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Svc/ComLogger/Commands.fppi
+/home/fprime/fprime/Svc/ComLogger/Events.fppi
+/home/fprime/fprime/Svc/Ping/Ping.fpp

@@ -1,0 +1,54 @@
+2023-05-14 19:58:38,(2(0)-1684061918:778651),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x5000 dispatched to port 5
+2023-05-14 19:58:38,(2(0)-1684061918:778691),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:58:38,(2(0)-1684061918:778700),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.1 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778711),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.0 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778715),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778719),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778722),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:58:38,(2(0)-1684061918:778726),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.1 received: 0
+2023-05-14 19:58:38,(2(0)-1684061918:778729),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778731),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:58:38,(2(0)-1684061918:778803),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x5000 completed
+2023-05-14 19:58:51,(2(0)-1684061931:792539),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x5000 dispatched to port 5
+2023-05-14 19:58:51,(2(0)-1684061931:792617),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:58:51,(2(0)-1684061931:792626),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.1 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792634),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.0 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792638),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792660),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792663),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:58:51,(2(0)-1684061931:792667),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.1 received: 0
+2023-05-14 19:58:51,(2(0)-1684061931:792671),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792673),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:58:51,(2(0)-1684061931:792907),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x5000 completed
+2023-05-14 19:59:09,(2(0)-1684061949:96722),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x5000 dispatched to port 5
+2023-05-14 19:59:09,(2(0)-1684061949:96764),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:59:09,(2(0)-1684061949:96779),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.1 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96785),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.0 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96788),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96791),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96794),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:59:09,(2(0)-1684061949:96797),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.1 received: 0
+2023-05-14 19:59:09,(2(0)-1684061949:96800),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96803),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:59:09,(2(0)-1684061949:96806),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.5 not satisfied
+2023-05-14 19:59:09,(2(0)-1684061949:96808),goalMonitor.SATISFIED,20480,EventSeverity.ACTIVITY_HI,Goal No.4 satisfied
+2023-05-14 19:59:09,(2(0)-1684061949:96811),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.3 not satisfied
+2023-05-14 19:59:09,(2(0)-1684061949:96813),goalMonitor.SATISFIED,20480,EventSeverity.ACTIVITY_HI,Goal No.2 satisfied
+2023-05-14 19:59:09,(2(0)-1684061949:96816),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.1 not satisfied
+2023-05-14 19:59:09,(2(0)-1684061949:96943),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x5000 completed
+2023-05-14 19:59:43,(2(0)-1684061983:83699),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x5000 dispatched to port 5
+2023-05-14 19:59:43,(2(0)-1684061983:83726),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:59:43,(2(0)-1684061983:83789),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.1 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83797),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.0 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83801),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83803),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83806),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.0 received: 0
+2023-05-14 19:59:43,(2(0)-1684061983:83810),goalMonitor.RECVB,20482,EventSeverity.ACTIVITY_HI,Boolean variable No.1 received: 0
+2023-05-14 19:59:43,(2(0)-1684061983:83813),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.3 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83815),goalMonitor.RECVF,20483,EventSeverity.ACTIVITY_HI,Float variable No.2 received: 0.0
+2023-05-14 19:59:43,(2(0)-1684061983:83818),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.5 not satisfied
+2023-05-14 19:59:43,(2(0)-1684061983:83821),goalMonitor.SATISFIED,20480,EventSeverity.ACTIVITY_HI,Goal No.4 satisfied
+2023-05-14 19:59:43,(2(0)-1684061983:83824),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.3 not satisfied
+2023-05-14 19:59:43,(2(0)-1684061983:83839),goalMonitor.SATISFIED,20480,EventSeverity.ACTIVITY_HI,Goal No.2 satisfied
+2023-05-14 19:59:43,(2(0)-1684061983:83841),goalMonitor.NOTSATISFIED,20481,EventSeverity.ACTIVITY_HI,Goal No.1 not satisfied
+2023-05-14 19:59:43,(2(0)-1684061983:83973),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x5000 completed

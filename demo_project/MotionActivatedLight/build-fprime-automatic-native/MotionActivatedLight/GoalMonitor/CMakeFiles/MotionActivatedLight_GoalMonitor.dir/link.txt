@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_GoalMonitor.a CMakeFiles/MotionActivatedLight_GoalMonitor.dir/GoalMonitor.cpp.o CMakeFiles/MotionActivatedLight_GoalMonitor.dir/GoalMonitorComponentAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_GoalMonitor.a

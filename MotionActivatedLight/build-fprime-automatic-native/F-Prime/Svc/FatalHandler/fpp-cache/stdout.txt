@@ -1,0 +1,2 @@
+/home/fprime/fprime/Svc/Fatal/Fatal.fpp
+/home/fprime/fprime/config/FpConfig.fpp

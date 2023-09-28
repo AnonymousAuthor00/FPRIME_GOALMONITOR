@@ -1,0 +1,2 @@
+/home/fprime/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/fprime/fprime/Drv/LinuxSpiDriver/Telemetry.fppi

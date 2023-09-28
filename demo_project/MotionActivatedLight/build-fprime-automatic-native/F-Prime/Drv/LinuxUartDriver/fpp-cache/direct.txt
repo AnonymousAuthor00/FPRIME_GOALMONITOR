@@ -1,0 +1,5 @@
+/home/fprime/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/fprime/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/fprime/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Fw/Tlm/Tlm.fpp

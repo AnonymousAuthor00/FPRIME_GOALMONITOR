@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_TimePort.a CMakeFiles/MotionActivatedLight_TimePort.dir/PortTimePortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_TimePort.a

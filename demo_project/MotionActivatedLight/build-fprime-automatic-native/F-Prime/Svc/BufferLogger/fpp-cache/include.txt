@@ -1,0 +1,3 @@
+/home/fprime/fprime/Svc/BufferLogger/Commands.fppi
+/home/fprime/fprime/Svc/BufferLogger/Events.fppi
+/home/fprime/fprime/Svc/BufferLogger/Telemetry.fppi

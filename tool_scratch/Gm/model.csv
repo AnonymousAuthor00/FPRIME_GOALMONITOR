@@ -1,0 +1,6 @@
+GoalNumber,GoalName,ParentGoal,Refinement,LogicExpression,Component,Conversion
+1,top_goal,0,AND,Null,Null,Null
+2,g1,1,Null,(targetDistance>detectionThreshold)->(detected),motionSensor,Null
+3,g2,1,AND,Null,Null,Null
+4,g2_1,3,Null,(detected)->(lastDetectionTime==currentTime),motionSensor,Null
+5,g2_2,3,Null,((currentTime-lastDetectionTime)<=5)<->(turnOn),light,Null

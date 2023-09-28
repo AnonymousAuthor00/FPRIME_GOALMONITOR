@@ -1,0 +1,213 @@
+Hit Ctrl-C to quit
+EVENT: (1280) (2:1684061907,702453) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x500 registered to port 0 slot 0
+EVENT: (1280) (2:1684061907,702476) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x501 registered to port 0 slot 1
+EVENT: (1280) (2:1684061907,702479) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x502 registered to port 0 slot 2
+EVENT: (1280) (2:1684061907,702482) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x503 registered to port 0 slot 3
+EVENT: (1280) (2:1684061907,702484) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x600 registered to port 1 slot 4
+EVENT: (1280) (2:1684061907,702487) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x601 registered to port 1 slot 5
+EVENT: (1280) (2:1684061907,702489) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x602 registered to port 1 slot 6
+EVENT: (1280) (2:1684061907,702492) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x603 registered to port 1 slot 7
+EVENT: (1280) (2:1684061907,702494) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x604 registered to port 1 slot 8
+EVENT: (1280) (2:1684061907,702496) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x605 registered to port 1 slot 9
+EVENT: (1280) (2:1684061907,702499) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x606 registered to port 1 slot 10
+EVENT: (1280) (2:1684061907,702501) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x607 registered to port 1 slot 11
+EVENT: (1280) (2:1684061907,702504) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb00 registered to port 2 slot 12
+EVENT: (1280) (2:1684061907,702506) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb02 registered to port 2 slot 13
+EVENT: (1280) (2:1684061907,702509) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb03 registered to port 2 slot 14
+EVENT: (1280) (2:1684061907,702511) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x700 registered to port 3 slot 15
+EVENT: (1280) (2:1684061907,702514) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x701 registered to port 3 slot 16
+EVENT: (1280) (2:1684061907,702516) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x702 registered to port 3 slot 17
+EVENT: (1280) (2:1684061907,702519) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x800 registered to port 4 slot 18
+EVENT: (1280) (2:1684061907,702522) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x801 registered to port 4 slot 19
+EVENT: (1280) (2:1684061907,702526) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x802 registered to port 4 slot 20
+EVENT: (1280) (2:1684061907,702529) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x803 registered to port 4 slot 21
+EVENT: (1280) (2:1684061907,702532) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x804 registered to port 4 slot 22
+EVENT: (1280) (2:1684061907,702535) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x805 registered to port 4 slot 23
+EVENT: (1280) (2:1684061907,702538) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x806 registered to port 4 slot 24
+EVENT: (1280) (2:1684061907,702542) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x5000 registered to port 5 slot 25
+EVENT: (1280) (2:1684061907,702545) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2000 registered to port 6 slot 26
+EVENT: (1280) (2:1684061907,702548) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2001 registered to port 6 slot 27
+EVENT: (1280) (2:1684061907,702551) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2002 registered to port 6 slot 28
+EVENT: (1280) (2:1684061907,702555) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xd00 registered to port 7 slot 29
+EVENT: (1280) (2:1684061907,702557) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b00 registered to port 8 slot 30
+EVENT: (1280) (2:1684061907,702560) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b01 registered to port 8 slot 31
+[WARNING] High task priority of 140 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_blockDrv. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_chanTlm. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 101 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdDisp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdSeq. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_ReceiveTask. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_eventLogger. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+Connected to 0.0.0.0:50000 as a tcp client
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileDownlink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileManager. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileUplink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_goalMonitor. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_prmDb. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 120 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup1Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 119 being clamped to 99
+EVENT: (512) (2:1684061907,703546) DIAGNOSTIC: (rateGroup1Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup2Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 118 being clamped to 99
+EVENT: (768) (2:1684061907,703615) DIAGNOSTIC: (rateGroup2Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup3Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+EVENT: (1024) (2:1684061907,703685) DIAGNOSTIC: (rateGroup3Comp) RateGroupStarted : Rate group started.
+EVENT: (1281) (2:1684061918,778651) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0x5000 dispatched to port 5
+EVENT: (20482) (2:1684061918,778691) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20483) (2:1684061918,778700) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.1 received: 0
+EVENT: (20483) (2:1684061918,778711) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.0 received: 0
+EVENT: (20483) (2:1684061918,778715) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061918,778719) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20482) (2:1684061918,778722) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20482) (2:1684061918,778726) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.1 received: 0
+EVENT: (20483) (2:1684061918,778729) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061918,778731) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20481) (2:1684061918,778734) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.5 not satisfied
+EVENT: (20480) (2:1684061918,778737) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.4 satisfied
+EVENT: (20481) (2:1684061918,778740) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.3 not satisfied
+EVENT: (20480) (2:1684061918,778742) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.2 satisfied
+EVENT: (20481) (2:1684061918,778744) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.1 not satisfied
+EVENT: (1282) (2:1684061918,778803) COMMAND: (cmdDisp) OpCodeCompleted : Opcode 0x5000 completed
+EVENT: (1281) (2:1684061931,792539) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0x5000 dispatched to port 5
+EVENT: (20482) (2:1684061931,792617) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20483) (2:1684061931,792626) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.1 received: 0
+EVENT: (20483) (2:1684061931,792634) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.0 received: 0
+EVENT: (20483) (2:1684061931,792638) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061931,792660) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20482) (2:1684061931,792663) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20482) (2:1684061931,792667) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.1 received: 0
+EVENT: (20483) (2:1684061931,792671) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061931,792673) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20481) (2:1684061931,792677) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.5 not satisfied
+EVENT: (20480) (2:1684061931,792680) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.4 satisfied
+EVENT: (20481) (2:1684061931,792682) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.3 not satisfied
+EVENT: (20480) (2:1684061931,792685) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.2 satisfied
+EVENT: (20481) (2:1684061931,792687) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.1 not satisfied
+EVENT: (1282) (2:1684061931,792907) COMMAND: (cmdDisp) OpCodeCompleted : Opcode 0x5000 completed
+EVENT: (1281) (2:1684061949,96722) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0x5000 dispatched to port 5
+EVENT: (20482) (2:1684061949,96764) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20483) (2:1684061949,96779) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.1 received: 0
+EVENT: (20483) (2:1684061949,96785) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.0 received: 0
+EVENT: (20483) (2:1684061949,96788) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061949,96791) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20482) (2:1684061949,96794) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20482) (2:1684061949,96797) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.1 received: 0
+EVENT: (20483) (2:1684061949,96800) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061949,96803) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20481) (2:1684061949,96806) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.5 not satisfied
+EVENT: (20480) (2:1684061949,96808) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.4 satisfied
+EVENT: (20481) (2:1684061949,96811) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.3 not satisfied
+EVENT: (20480) (2:1684061949,96813) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.2 satisfied
+EVENT: (20481) (2:1684061949,96816) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.1 not satisfied
+EVENT: (1282) (2:1684061949,96943) COMMAND: (cmdDisp) OpCodeCompleted : Opcode 0x5000 completed
+EVENT: (1281) (2:1684061983,83699) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0x5000 dispatched to port 5
+EVENT: (20482) (2:1684061983,83726) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20483) (2:1684061983,83789) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.1 received: 0
+EVENT: (20483) (2:1684061983,83797) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.0 received: 0
+EVENT: (20483) (2:1684061983,83801) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061983,83803) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20482) (2:1684061983,83806) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.0 received: 0
+EVENT: (20482) (2:1684061983,83810) ACTIVITY_HI: (goalMonitor) RECVB : Boolean variable No.1 received: 0
+EVENT: (20483) (2:1684061983,83813) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.3 received: 0
+EVENT: (20483) (2:1684061983,83815) ACTIVITY_HI: (goalMonitor) RECVF : Float variable No.2 received: 0
+EVENT: (20481) (2:1684061983,83818) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.5 not satisfied
+EVENT: (20480) (2:1684061983,83821) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.4 satisfied
+EVENT: (20481) (2:1684061983,83824) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.3 not satisfied
+EVENT: (20480) (2:1684061983,83839) ACTIVITY_HI: (goalMonitor) SATISFIED : Goal No.2 satisfied
+EVENT: (20481) (2:1684061983,83841) ACTIVITY_HI: (goalMonitor) NOTSATISFIED : Goal No.1 not satisfied
+EVENT: (1282) (2:1684061983,83973) COMMAND: (cmdDisp) OpCodeCompleted : Opcode 0x5000 completed
+[WARNING] Failed to recv from port with status -8 and errno 0
+Waiting for threads...
+Exiting...

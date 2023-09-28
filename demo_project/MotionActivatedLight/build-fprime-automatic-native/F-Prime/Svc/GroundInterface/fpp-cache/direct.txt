@@ -1,0 +1,5 @@
+/home/fprime/fprime/Fw/Buffer/Buffer.fpp
+/home/fprime/fprime/Fw/Com/Com.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Svc/GroundInterface/Events.fppi
+/home/fprime/fprime/Svc/Sched/Sched.fpp

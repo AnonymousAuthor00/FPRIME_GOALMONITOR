@@ -1,0 +1,92 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
+      - "CMakeLists.txt:23 (project)"
+    message: |
+      The system is: Linux - 5.19.0-41-generic - x86_64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:23 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: /usr/bin/cc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is GNU, found in:
+        /home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/3.26.3/CompilerIdC/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:23 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: /usr/bin/c++ 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+      
+      The CXX compiler identification is GNU, found in:
+        /home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/3.26.3/CompilerIdCXX/a.out
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake:76 (cmake_check_source_compiles)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "/snap/cmake/1288/share/cmake-3.26/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "/home/fprime/fprime/cmake/platform/Linux.cmake:10 (FIND_PACKAGE)"
+      - "/home/fprime/fprime/cmake/platform/platform.cmake:31 (include)"
+      - "/home/fprime/fprime/cmake/FPrime.cmake:28 (include)"
+      - "CMakeLists.txt:32 (include)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "/home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY"
+      binary: "/home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/home/fprime/fprime/cmake"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: /home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY
+        
+        Run Build Command(s):/snap/cmake/1288/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3ab28/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_3ab28.dir/build.make CMakeFiles/cmTC_3ab28.dir/build
+        gmake[1]: Entering directory '/home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY'
+        Building C object CMakeFiles/cmTC_3ab28.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -std=c99 -o CMakeFiles/cmTC_3ab28.dir/src.c.o -c /home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY/src.c
+        Linking C executable cmTC_3ab28
+        /snap/cmake/1288/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3ab28.dir/link.txt --verbose=1
+        /usr/bin/cc CMakeFiles/cmTC_3ab28.dir/src.c.o -o cmTC_3ab28 
+        gmake[1]: Leaving directory '/home/fprime/fprime/MotionActivatedLight/build-fprime-automatic-native/prescan/CMakeFiles/CMakeScratch/TryCompile-g8i0qY'
+        
+      exitCode: 0
+...

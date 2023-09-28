@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_Top.a CMakeFiles/MotionActivatedLight_Top.dir/MotionActivatedLightTopologyDefs.cpp.o CMakeFiles/MotionActivatedLight_Top.dir/FppConstantsAc.cpp.o CMakeFiles/MotionActivatedLight_Top.dir/MotionActivatedLightTopologyAc.cpp.o CMakeFiles/MotionActivatedLight_Top.dir/Ports_RateGroupsEnumAc.cpp.o CMakeFiles/MotionActivatedLight_Top.dir/Ports_StaticMemoryEnumAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_Top.a

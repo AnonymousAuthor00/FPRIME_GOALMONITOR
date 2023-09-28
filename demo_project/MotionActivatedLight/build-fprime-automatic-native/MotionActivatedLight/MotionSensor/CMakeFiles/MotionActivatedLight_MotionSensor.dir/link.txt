@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_MotionSensor.a CMakeFiles/MotionActivatedLight_MotionSensor.dir/MotionSensor.cpp.o CMakeFiles/MotionActivatedLight_MotionSensor.dir/MotionSensorComponentAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_MotionSensor.a

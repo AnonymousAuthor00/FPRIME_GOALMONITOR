@@ -1,0 +1,4 @@
+/home/fprime/fprime/Drv/GpioDriverPorts/GpioDriverPorts.fpp
+/home/fprime/fprime/Drv/LinuxGpioDriver/Events.fppi
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Svc/Cycle/Cycle.fpp

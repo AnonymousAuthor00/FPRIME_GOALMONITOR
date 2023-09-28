@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_GoalMonitorPort.a CMakeFiles/MotionActivatedLight_GoalMonitorPort.dir/PortBPortAc.cpp.o CMakeFiles/MotionActivatedLight_GoalMonitorPort.dir/PortFPortAc.cpp.o CMakeFiles/MotionActivatedLight_GoalMonitorPort.dir/PortUPortAc.cpp.o CMakeFiles/MotionActivatedLight_GoalMonitorPort.dir/VarReqPortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_GoalMonitorPort.a

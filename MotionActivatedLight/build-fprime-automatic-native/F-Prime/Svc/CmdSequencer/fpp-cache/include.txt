@@ -1,0 +1,3 @@
+/home/fprime/fprime/Svc/CmdSequencer/Commands.fppi
+/home/fprime/fprime/Svc/CmdSequencer/Events.fppi
+/home/fprime/fprime/Svc/CmdSequencer/Telemetry.fppi

@@ -1,0 +1,2 @@
+/home/fprime/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/fprime/fprime/Drv/LinuxUartDriver/Telemetry.fppi

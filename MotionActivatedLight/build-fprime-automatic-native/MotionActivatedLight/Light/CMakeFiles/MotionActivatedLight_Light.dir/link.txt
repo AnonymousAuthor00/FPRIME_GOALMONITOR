@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMotionActivatedLight_Light.a CMakeFiles/MotionActivatedLight_Light.dir/Light.cpp.o CMakeFiles/MotionActivatedLight_Light.dir/LightComponentAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMotionActivatedLight_Light.a

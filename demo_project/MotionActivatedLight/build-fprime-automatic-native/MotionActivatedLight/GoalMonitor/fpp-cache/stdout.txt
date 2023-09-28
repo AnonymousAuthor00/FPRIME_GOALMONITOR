@@ -1,0 +1,5 @@
+/home/fprime/fprime/Fw/Cmd/Cmd.fpp
+/home/fprime/fprime/Fw/Log/Log.fpp
+/home/fprime/fprime/Fw/Time/Time.fpp
+/home/fprime/fprime/MotionActivatedLight/GoalMonitorPort/GoalMonitorPort.fpp
+/home/fprime/fprime/config/FpConfig.fpp

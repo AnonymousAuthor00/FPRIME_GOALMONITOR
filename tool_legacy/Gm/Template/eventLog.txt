@@ -1,0 +1,5 @@
+        if(this->goalNumber){
+          this->log_ACTIVITY_HI_SATISFIED(Number);
+        }else{
+          this->log_ACTIVITY_HI_NOTSATISFIED(Number);
+        }
